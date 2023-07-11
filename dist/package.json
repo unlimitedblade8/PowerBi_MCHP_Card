@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0",
+		"author": {"name":"Dana Hu","email":"Dana.hu@Microchip.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/MicrochipCardE03760C5AB684758B56AA29F9EA65180.pbiviz.json"
+			}
+		],
+		"visual": {"name":"advanceCard","displayName":"Microchip Card","guid":"MicrochipCardE03760C5AB684758B56AA29F9EA65180","visualClassName":"AdvanceCardVisual","version":"1.0.0","description":"Advance card visual with more options than default card visual available in Power BI","supportUrl":"https://app.powerbi.com/Redirect?action=OpenApp&appId=8505690a-3e1a-4633-8b1b-86821ed8a9cb&ctid=3f4057f3-b418-4d4e-ba84-d55b4e897d88","gitHubUrl":"https://app.powerbi.com/Redirect?action=OpenApp&appId=8505690a-3e1a-4633-8b1b-86821ed8a9cb&ctid=3f4057f3-b418-4d4e-ba84-d55b4e897d88"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
